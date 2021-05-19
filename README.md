@@ -10,13 +10,13 @@ The taxonomy data is retrieved and calculated for all the instruments in the RIC
 -	A working Eikon installation
 
 -	An Eikon AppKey. This can be generated as follows:
-		Logon to the AppKey generator at https://amers1.apps.cp.thomsonreuters.com/apps/AppkeyGenerator, with your Eikon Credentials
-			or
-		Type in APPKEY in the Eikon Search bar
-		Input a valid App Name like "Portfolio Taxonomy"
-		Select "Eikon Data API" checkbox
-		Register the new app
-		Copy the AppKey. This will be required in the python sample
+		Logon to the AppKey generator at https://amers1.apps.cp.thomsonreuters.com/apps/AppkeyGenerator, with your Eikon Credentials   
+			or   
+		Type in APPKEY in the Eikon Search bar   
+		Input a valid App Name like "Portfolio Taxonomy"   
+		Select "Eikon Data API" checkbox   
+		Register the new app   
+		Copy the AppKey. This will be required in the python sample   
 
 -	Python 3.6 or higher
 
